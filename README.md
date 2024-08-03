@@ -1,6 +1,7 @@
 Implementation
 ========
 
+Local machine:Window
 1. run git clone {this repo}
 2. astro dev start
 3. Modify the ./spark/notebooks/pyspark/Dockerfile 
